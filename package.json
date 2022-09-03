@@ -31,7 +31,7 @@
   "peerDependencies": {
     "@rjsf/core": "^5.0.0-beta.1",
     "@rjsf/utils": "^5.0.0-beta.1",
-    "react": "^16.14.0 || >=17",
+    "react": "^18.2.0",
     "react-bootstrap": "^2.5.0"
   },
   "engineStrict": false,
